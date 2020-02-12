@@ -37,3 +37,9 @@ Various types of messages:
 - Do verification through Line
 
 ### Get Number of Messages Sent
+
+## Channels
+A single line messaging account
+### Credentials
+1. Channel Access Key
+2. Channel Secret Key
