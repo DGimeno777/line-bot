@@ -50,7 +50,7 @@ def handle_message(event):
     if msg_from_user == 'hello':
         line_bot_api.reply_message(
             event.reply_token,
-            TextSendMessage
+            TextSendMessage(text='hi')
         )
     else:
         line_bot_api.reply_message(
