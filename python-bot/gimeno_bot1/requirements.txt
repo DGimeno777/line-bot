@@ -6,7 +6,7 @@ boto==2.49.0
 boto3==1.9.14
 botocore==1.12.14
 bz2file==0.98
-colander==0.9.9
+colander==1.7.0
 colorama==0.4.0
 cycler==0.10.0
 DateTime==4.3
